@@ -1,0 +1,51 @@
+
+
+round-progress {
+  margin:auto;
+}
+
+.controls-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  /* max-width: 200px; */
+  margin-top: 10px;
+}
+button {
+  margin: 5px;
+  width: 100px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-flow: row;
+}
+label {
+  width: 200px
+}
+input{
+  /* color: #0361c5; */
+  color: TEAL;
+  text-align: center;
+  padding: 5px;
+ font-size: 1.2em;
+ width: 100%;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: rgb(31, 185, 187);
+    border-color:rgb(31, 185, 187);
+}
+
+h1 {
+  margin-top: 40px;
+}
+
+.text {
+  margin-top: 106px;
+  margin-bottom: -108px;
+
+}
